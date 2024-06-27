@@ -7,7 +7,7 @@ public final class Pl_SendMessages extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        getLogger().info("Hello World!");
+        getLogger().info("Hello World!commit test");
 
     }
 
